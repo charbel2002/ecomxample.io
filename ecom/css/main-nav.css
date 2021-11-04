@@ -1,0 +1,24 @@
+
+  body{
+    overflow-x: hidden;
+  }
+
+  #main-nav{
+    padding: 0px;
+  }
+
+  .main-nav-link{
+    display: block;
+    height: 100%;
+  }
+
+  .main-nav-link a{
+    font-size: 18px;
+    color: white;
+    display: block;
+  }
+
+  .main-nav-link a:hover{
+    text-decoration: none;
+    color: orange;
+  }
